@@ -34,5 +34,5 @@ O programa permite ao usuário escolher entre várias funcionalidades, cada uma 
 
 1. Clone o repositório:
 ```sh
-git clone <URL_DO_REPOSITORIO>
-cd Atividade_Programacao_Java
+git clone <https://github.com/J0tav3/Atividade-Avaliativa-2.git>
+cd Atividade_Avaliativa_2
